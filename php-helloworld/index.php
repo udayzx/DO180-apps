@@ -1,3 +1,4 @@
 <?php
-UDAY EDIT =========Hello, World! php version is =========XYZ7.3.11
+print "Hello, World! php version is " . PHP_VERSION . "\n";
+print "A change is a coming!\n";
 ?>
